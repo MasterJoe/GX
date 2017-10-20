@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.h4ckademy.juego.2" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>PacM</name>
+    <name>Juego 3</name>
     <description>
-        Si te parese fácil, juegalo.
+        Juego 3
     </description>
-    <author email="test@test.com" href="http://test.com">
-        La testera</author>
+    <author email="h4@h4ckademy.com" href="http://h4ckademy.com">
+        h4ckademy
+    </author>
     <content src="index.html" />
     <access origin="*" />
     <plugin name="cordova-plugin-whitelist"/>
